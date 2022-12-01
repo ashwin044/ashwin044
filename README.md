@@ -1,3 +1,10 @@
+<img align="right" src="https://visitcount.itsvg.in/api?id=ashwin044&icon=0&color=0">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ashwin+Kumar!;&center=true&size=30">
+  </a>
+</h1>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -17,17 +24,17 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashwin044&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;  ![](https://github-readme-streak-stats.herokuapp.com/?user=ashwin044&theme=dark&hide_border=false)<br/>
+<a href="https://github.com/ashwin044">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwin044&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin044&theme=dark&hide_border=false" />
+</a>
 
 ![Snake animation](https://github.com/ashwin044/ashwin044/blob/output/github-contribution-grid-snake.svg)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashwin044&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=ashwin044&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
