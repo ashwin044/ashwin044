@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashwin044&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;  ![](https://github-readme-streak-stats.herokuapp.com/?user=ashwin044&theme=dark&hide_border=false)<br/>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/ashwin044/ashwin044/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashwin044&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
