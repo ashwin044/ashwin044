@@ -49,14 +49,19 @@ hobbies: ["Gaming 🎮", "Cinema 🎦", "basketball" 🏀]
 <a href="https://github.com/ashwin044">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwin044&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin044&theme=dark&hide_border=false" />
+  <img src="https://github.com/ashwin044/ashwin044/blob/output/github-contribution-grid-snake.svg" />
 </a>
 
-![Snake animation](https://github.com/ashwin044/ashwin044/blob/output/github-contribution-grid-snake.svg)
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">
+</p>
 
-<p align="left">
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
