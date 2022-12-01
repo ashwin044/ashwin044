@@ -18,12 +18,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>     
-  
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>           
 </p>
 
-# 📊 GitHub Stats:
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Ashwin Kumar M
+located_in: Bengaluru, IN
+current_job: MIS Analyst
+education: Bachelor's in Computer Science 
+company: Cameo Global
+
+fields_of_interests:
+  [
+    "Data Engineering",
+    "Data Science",
+    "Machine Learning",
+    "Web Scraping",
+  ]
+  
+currently_learning: ["DSA, Git and AWS"]
+Current Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming 🎮", "Cinema 🎦", "basketball" 🏀]
+```
+  
+---  
+
+## 📊 GitHub Stats:
 <a href="https://github.com/ashwin044">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwin044&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin044&theme=dark&hide_border=false" />
