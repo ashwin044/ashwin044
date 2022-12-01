@@ -46,12 +46,13 @@ hobbies: ["Gaming 🎮", "Cinema 🎦", "basketball" 🏀]
 ---  
 
 ## 📊 GitHub Stats:
+<p align="center">
 <a href="https://github.com/ashwin044">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=ashwin044&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin044&theme=dark&hide_border=false" />
   <img src="https://github.com/ashwin044/ashwin044/blob/output/github-contribution-grid-snake.svg" />
 </a>
-
+</p>
 
 
 ### ✍️ Random Dev Quote
