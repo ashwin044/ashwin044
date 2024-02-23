@@ -29,9 +29,9 @@
 ```yaml
 name: Ashwin Kumar M
 located_in: Bengaluru, IN
-current_job: MIS Analyst
+current_job: Data Analyst
 education: Bachelor's in Computer Science 
-company: Cameo Global
+company: OMC (Omnicom Media Group)
 
 fields_of_interests:
   [
